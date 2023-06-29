@@ -10,4 +10,5 @@ John Doe has been diagonised with obesity and he has been asked by his nutrionis
  - John doe should eat healthy and avoid all fat and calories related foods.
  - Therefore using the data Cereals an analysis was done to advice him accordingly, to give him the best advice on the manufacturer he  should purchase the products.
 
-                          INSIGHTS 
+                          INSIGHTS
+   
